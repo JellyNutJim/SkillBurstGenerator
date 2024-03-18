@@ -60,6 +60,8 @@
             this.CorrectIndexGroup = new System.Windows.Forms.GroupBox();
             this.MultipleChoicePanel = new System.Windows.Forms.Panel();
             this.BackBtn = new System.Windows.Forms.Button();
+            this.PathBox = new System.Windows.Forms.TextBox();
+            this.PathLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.TimeBox)).BeginInit();
@@ -375,11 +377,31 @@
             this.BackBtn.Text = "Deselect";
             this.BackBtn.UseVisualStyleBackColor = true;
             // 
+            // PathBox
+            // 
+            this.PathBox.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.PathBox.Location = new System.Drawing.Point(226, 670);
+            this.PathBox.Name = "PathBox";
+            this.PathBox.Size = new System.Drawing.Size(426, 20);
+            this.PathBox.TabIndex = 42;
+            this.PathBox.Text = "c:\\temp\\MyTest.json";
+            // 
+            // PathLabel
+            // 
+            this.PathLabel.AutoSize = true;
+            this.PathLabel.Location = new System.Drawing.Point(188, 672);
+            this.PathLabel.Name = "PathLabel";
+            this.PathLabel.Size = new System.Drawing.Size(32, 13);
+            this.PathLabel.TabIndex = 43;
+            this.PathLabel.Text = "Path:";
+            // 
             // MCGen
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(745, 717);
+            this.Controls.Add(this.PathLabel);
+            this.Controls.Add(this.PathBox);
             this.Controls.Add(this.BackBtn);
             this.Controls.Add(this.MultipleChoicePanel);
             this.Controls.Add(this.ExportButton);
@@ -442,6 +464,8 @@
         private System.Windows.Forms.NumericUpDown TimeBox;
         private System.Windows.Forms.Panel MultipleChoicePanel;
         private System.Windows.Forms.Button BackBtn;
+        private System.Windows.Forms.TextBox PathBox;
+        private System.Windows.Forms.Label PathLabel;
     }
 }
 

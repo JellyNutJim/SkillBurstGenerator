@@ -64,7 +64,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(759, 834);
+            this.ClientSize = new System.Drawing.Size(759, 809);
             this.Controls.Add(this.FormatLabel);
             this.Controls.Add(this.FormatCombo);
             this.Controls.Add(this.QuizGenPanel);

@@ -127,7 +127,7 @@ namespace SkillBurstGenerator
                 questions = questionData
             };
             string json = JsonConvert.SerializeObject(quiz, Formatting.Indented);
-            File.WriteAllText(@"c:\temp\MyTest.json", json);
+            File.WriteAllText(@PathBox.Text, json);
         }
 
         private void QuestionButton_click(object sender, EventArgs e, int i)
