@@ -1,0 +1,15 @@
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\bin\Debug\SkillBurstGenerator.exe.config
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\bin\Debug\SkillBurstGenerator.exe
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\bin\Debug\SkillBurstGenerator.pdb
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\bin\Debug\Newtonsoft.Json.dll
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\bin\Debug\Newtonsoft.Json.xml
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.csproj.AssemblyReference.cache
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.Properties.Resources.resources
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.csproj.CopyComplete
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.exe
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.pdb
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.CreateNewQuiz.resources
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.LGen.resources
+C:\Users\oscar\source\repos\SkillBurstGenerator\SkillBurstGenerator\obj\Debug\SkillBurstGenerator.MCGen.resources
